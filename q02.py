@@ -27,7 +27,7 @@ while numero != 'sair':
         print('O número é Par.')
     else:
         pass
-    if numero%2 != 0 and numero !=51:
+    if numero%2 != 0 and numero != 51 and numero != 101:
         print('O número é Impar.')
     else:
         pass
